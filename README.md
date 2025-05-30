@@ -3,7 +3,7 @@
 
 ---
 
-**Psyche-Quiz** is an India-based open source webapp dedicated for testing depression. **Psyche-Quiz** allows people to test depression on this webapp, which are then predicted by a machine-learning algorithm. In **Psyche-Quiz** we help people to overcome their depression so that they can live in peace.
+**Psyche-Quiz** is an open source webapp dedicated for testing depression. **Psyche-Quiz** allows people to test depression on this webapp, which are then predicted by a machine-learning algorithm. In **Psyche-Quiz** we help people to overcome their depression so that they can live in peace.
 
 ---
 
@@ -63,7 +63,7 @@ To run the project locally, follow these steps:
 2. **Create Virtual Environment (Recommended)**
    ```bash
    python -m venv venv
-   venv\Scripts\activate       # For Windows
+   venv\Scripts\activate
    ```
 3. **Install Dependencies**
    ```bash
